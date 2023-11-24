@@ -1,8 +1,3 @@
-// Author: Chealyfey Vutha
-// Date: 11-24-2023
-// Final Project INF 651
-
-
 // 1. createElemWithText
 function createElemWithText(elementName = "p", textContent = "", className) {
 
